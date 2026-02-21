@@ -12,7 +12,7 @@ After making an HF contact almost 1/2 way around the earth I realized anything E
 
 This script will produce one high resolution jpeg for an overall award which will list each celestial body AND the date/time you transmitted past it! 
 
-> [NOTE]
+> [!NOTE]
 > There is no sort feature in the software so the date of 'passing' each celestial body is dependent upon the order of the entries in the ADIF file.  <br> <br> This was tested with an export from CloudLog and WaveLog but I assume most other software will also export in time order but that isn't tested nor even confirmed with CloudLog.  <br> <br>  If it is working as you add contacts the dates for each object should stay the same. If the dates slowly creep forward my assumption is wrong and a sort filter will need to be coded in.
 
 It will also produce an award for each celestial body you have transmitted past.
