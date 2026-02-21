@@ -46,14 +46,14 @@ This software doesn't calculate the distance of a contact it solely reads it fro
 # Technical Prerequisites
 
 - Python 
--- Following Libraries
---- EasyGUI
---- adif_io
---- pillow
+  - Following Libraries
+    - EasyGUI
+	- adif_io
+	- pillow
 
 - ADIF Export File
--- With Distances calculated
--- ALL QSOs are included so pre-filter
+  - With Distances calculated
+  - ALL QSOs are included so pre-filter
 
 > [!TIP]
 > For users without a pre-existing python environment I recommend using [Thonny](https://thonny.org/) and installing the Libraries via it's plugin manager.  No CLI for python to learn!
