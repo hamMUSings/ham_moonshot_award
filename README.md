@@ -62,6 +62,8 @@ This software doesn't calculate the distance of a contact it solely reads it fro
 
 Once the libraries are installed.
 
+Clone repo or download and unzip
+
 Open the Moonshot.py in Thonny and click Run
 
 A GUI Will pop up asking for your Name and Callsign.  This is what is printed on the certificates.
