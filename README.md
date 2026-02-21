@@ -17,8 +17,8 @@ This script will produce one high resolution jpeg for an overall award which wil
 
 It will also produce an award for each celestial body you have transmitted past.
 
-![Overall award demo image](../example/CALLSIGN_MoonshotSeriesAward.jpg)
-![The Moon award demo image](../example/CALLSIGN_MoonAward.jpg)
+![Overall award demo image](/example/CALLSIGN_MoonshotSeriesAward.jpg)
+![The Moon award demo image](/example/CALLSIGN_MoonAward.jpg)
 
 ## Garbage In, Garbage out
 
@@ -60,7 +60,7 @@ Once the libraries are installed.
 Open the Moonshot.py in Thonny and click Run
 
 A GUI Will pop up asking for your Name and Callsign.  This is what is printed on the certificates.
-![EAsyGUI Operator information collection screen](../examples/Op_Info.png)
+![EAsyGUI Operator information collection screen](/examples/Op_Info.png)
 
 > [!NOTE]
 > If your name or callsign are to long it will go off the page on both sides.  You can resolve this by either A) Shorting the name/call to print or B) Changing the Text size in the script
