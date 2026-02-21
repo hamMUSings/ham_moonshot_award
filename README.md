@@ -8,6 +8,9 @@ The Moonshot Award
 
 Measuring how far you have two communicated via radio in comparison to celestial bodies in our solar system.
 
+>[!IMPORTANT]
+> This distances are FROM Earth NOT from the Sun.  So the order isn't from the Sun outward but which celestial bodies are closest to Earth to farthest from Earth
+
 After making an HF contact almost 1/2 way around the earth I realized anything Earth Based for distances wasn't going to cut it -- but the moon and pluto are very far away! AND NASA has some nice images we could use.
 
 This script will produce one high resolution jpeg for an overall award which will list each celestial body AND the date/time you transmitted past it! 
