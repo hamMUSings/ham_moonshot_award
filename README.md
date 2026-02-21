@@ -18,6 +18,8 @@ This script will produce one high resolution jpeg for an overall award which wil
 It will also produce an award for each celestial body you have transmitted past.
 
 ![Overall award demo image](/examples/CALLSIGN_MoonshotSeriesAward.jpg)
+
+
 ![The Moon award demo image](/examples/CALLSIGN_MoonAward.jpg)
 
 ## Garbage In, Garbage out
