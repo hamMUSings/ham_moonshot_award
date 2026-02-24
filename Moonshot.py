@@ -40,6 +40,12 @@ for contact in qsos:
             awarded_date[awarded_level][1]=date_og[4:6]+"/"+date_og[6:8]+"/"+date_og[2:4]+" "+time_og[0:2]+":"+time_og[2:4]
 
 award_distance_decimal = "%.2f" % award_distance
+award_distance_mi_decimal = "%.2f" % (award_distance/KM_MI)
+award_distance_au_decimal = "%.6f" % AU_Award
+print("Distance Traveled:")
+print("   "+award_distance_decimal +" km")
+print("   "+award_distance_mi_decimal +" mi")
+print("   "+award_distance_au_decimal +" AU")
 
 # Overall Award Creation
 
